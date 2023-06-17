@@ -1,2 +1,2 @@
 # Ahan Online Exam
-TSQL
+SQL Server
